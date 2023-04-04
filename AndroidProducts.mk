@@ -4,4 +4,5 @@
 #
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/calyx_rhode.mk \
     $(LOCAL_DIR)/lineage_rhode.mk
