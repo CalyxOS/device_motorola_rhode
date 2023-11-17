@@ -1,4 +1,4 @@
-# Firmware from rhode_g S1SRS32.38-132-14
+# Firmware from rhode_g S1SRS32.38-132-15
 
 abl.elf:abl.img;AB
 BTFM.bin:bluetooth.img;AB
