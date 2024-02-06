@@ -1,4 +1,4 @@
-# Firmware from rhode_g S1SRS32.38-132-15
+# All firmware images below are extracted from rhode_g T2SRS33.72-22-4-1
 
 abl.elf:abl.img;AB
 BTFM.bin:bluetooth.img;AB
@@ -9,7 +9,6 @@ hyp.mbn:hyp.img;AB
 keymaster.mbn:keymaster.img;AB
 logo.bin:logo.img;AB
 NON-HLOS.bin:modem.img;AB
-gpt.bin:partition.img
 prov64.mbn:prov.img;AB
 qupfw.elf:qupfw.img;AB
 rpm.mbn:rpm.img;AB
