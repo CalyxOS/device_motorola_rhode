@@ -174,6 +174,10 @@ vendor/lib64/libRbsFlow.so
 vendor/lib64/libets_teeclient_v2.so
 vendor/lib64/vendor.egistec.hardware.fingerprint@4.0.so
 vendor/lib64/vendor.focaltech.fingerprint@1.0.so
+vendor/usr/idc/uinput-egis.idc
+vendor/usr/idc/uinput-focal.idc
+vendor/usr/keylayout/uinput-focal.kl
+vendor/usr/keylayout/uinput-egis.kl
 
 # Graphics firmware
 vendor/firmware/a630_sqe.fw
@@ -188,13 +192,11 @@ vendor/etc/libnfc-nxp.conf
 vendor/lib64/libpn557_fw.so
 
 # NFC (Samsung)
-vendor/bin/hw/android.hardware.nfc@1.2-service.sec
 vendor/etc/init/android.hardware.nfc@1.2-service.sec.rc
 vendor/etc/init/init.nfc.sec.rc
 vendor/etc/libnfc-sec-vendor.conf
 vendor/etc/sec_s3nrn4v_hwreg.bin
 vendor/etc/sec_s3nrn4v_swreg.bin
-vendor/lib64/nfc_nci_sec.so
 
 # NFC firmware (Samsung)
 vendor/firmware/sec_s3nrn4v_firmware.bin
@@ -255,8 +257,8 @@ vendor/etc/sensors/sns_reg_config
 # Thermal
 vendor/bin/thermal-engine
 vendor/etc/init/init_thermal-engine.rc
-vendor/etc/thermal-engine.conf
 vendor/etc/thermal-engine-rhode.conf
+vendor/etc/thermal-engine.conf
 -vendor/lib/libthermalclient.so
 -vendor/lib64/libthermalclient.so
 
