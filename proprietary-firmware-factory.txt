@@ -1,0 +1,3 @@
+# Firmware from the release mentioned in proprietary-firmware.txt
+
+gpt.bin:partition.img
