@@ -23,6 +23,6 @@ PRODUCT_MANUFACTURER := motorola
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="rhode_g-user 13 T2SRS33.72-22-4-9 e5f56-2298ec release-keys" \
-    BuildFingerprint=motorola/rhode_g/rhode:13/T2SRS33.72-22-4-9/e5f56-2298ec:user/release-keys \
+    BuildDesc="rhode_g-user 13 T2SRS33.72-22-4-10 6ce93-ec5c02 release-keys" \
+    BuildFingerprint=motorola/rhode_g/rhode:13/T2SRS33.72-22-4-10/6ce93-ec5c02:user/release-keys \
     DeviceProduct=rhode_g
